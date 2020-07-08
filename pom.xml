@@ -14,6 +14,8 @@
         <module>yinzhi-makers</module>
         <module>yinzhi-member</module>
         <module>yinzhi-order</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 
 </project>
